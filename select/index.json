@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "オンリー",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-01T02:34:37.803869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オンリー・ザ・ロンリー",
+      "artist": "モーテルズ",
+      "has_synced": false,
+      "path": "select/01_オンリー・ザ・ロンリー_モーテルズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オンリー",
+      "artist": "Yuiko Ohara",
+      "has_synced": true,
+      "path": "select/02_オンリー_Yuiko_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/03_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オンリー",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/04_オンリー_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Only Lonely Glory [オンリー ロンリー グローリー]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_Only_Lonely_Glory_[オンリー_ロンリー_グローリー]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オンリー",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/06_オンリー_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "オンリー",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/07_オンリー_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オンリー・マン",
+      "artist": "高乃 麗 (マリア・タチバナ)",
+      "has_synced": true,
+      "path": "select/08_オンリー・マン_高乃_麗_(マリア・タチバナ).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "オンリー・マン",
+      "artist": "マリア・タチバナ(CV.高乃麗)",
+      "has_synced": true,
+      "path": "select/09_オンリー・マン_マリア・タチバナ(CV.高乃麗).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/10_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "オンリー",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/11_オンリー_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/12_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/13_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "オンリー",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_オンリー_Imagine_Dragons.txt"
+    }
+  ]
+}
